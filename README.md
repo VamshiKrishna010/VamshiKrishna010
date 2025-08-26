@@ -50,7 +50,7 @@
 
 ### 🎯 Let's Connect!
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="yourprofile" /></a>
+  <a href="(https://www.linkedin.com/in/vamshi-krishna-reddy-daggula-3269942b8/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="yourprofile" /></a>
   <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="your email" /></a>
 </p>
 
