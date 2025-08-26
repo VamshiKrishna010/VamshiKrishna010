@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **vamshikrishnareddy2134@gmail.com**
 
-- ⚡ Fun fact: I’m a part-time photographer and Taekwondo enthusiast 🥋📸
+- ⚡ Fun fact: I’m a part-time photographer📸
 
 ---
 
