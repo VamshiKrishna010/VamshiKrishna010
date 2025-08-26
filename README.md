@@ -7,7 +7,7 @@
 
 - 📝 I regularly post updates on my academic & coding journey at [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-reddy-daggula-3269942b8/)
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **vamshikrishnareddy2134@gmail.com**
 
 - ⚡ Fun fact: I’m a part-time photographer and Taekwondo enthusiast 🥋📸
 
