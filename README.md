@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
 <h3 align="center">A Computer Science undergrad passionate about building, learning, and problem solving</h3>
 
