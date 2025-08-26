@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Assembly, Advanced Data Structures, and Systems Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/yourusername)
+- 👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/VamshiKrishna010)
 
 - 📝 I regularly post updates on my academic & coding journey at [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-reddy-daggula-3269942b8/)
 
