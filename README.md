@@ -37,7 +37,7 @@
 ### 🧩 LeetCode Progress:
 <p align="center">
   <a href="https://leetcode.com/u/iGhiDrSfE3/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/iGhiDrSfE3?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/iGhiDrSfE3?theme=dark&font=Karma" alt="LeetCode Stats" />
   </a>
 </p>
 
