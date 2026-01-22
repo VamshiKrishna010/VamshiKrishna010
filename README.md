@@ -36,12 +36,12 @@
 
 ### 🧩 LeetCode Progress:
 <p align="center">
-  <a href="https://leetcode.com/u/iGhiDrStE3/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/iGhiDrStE3?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/iGhiDrSfE3/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/iGhiDrSfE3?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
-> LeetCode profile: https://leetcode.com/u/iGhiDrStE3/
+> LeetCode profile: https://leetcode.com/u/iGhiDrSfE3/
 
 ---
 
