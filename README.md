@@ -41,8 +41,6 @@
   </a>
 </p>
 
-> LeetCode profile: https://leetcode.com/u/iGhiDrSfE3/
-
 ---
 
 ### 🧠 Currently Exploring:
