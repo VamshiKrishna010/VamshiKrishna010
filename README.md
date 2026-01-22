@@ -36,12 +36,12 @@
 
 ### 🧩 LeetCode Progress:
 <p align="center">
-  <a href="https://leetcode.com/u/VamshiKrishna010/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/VamshiKrishna010?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/iGhiDrStE3/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/iGhiDrStE3?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
-> If your LeetCode username is different, replace `VamshiKrishna010` in the link + image URL above.
+> LeetCode profile: https://leetcode.com/u/iGhiDrStE3/
 
 ---
 
