@@ -44,9 +44,9 @@
 ---
 
 ### 🧠 Currently Exploring:
-- 🔲 Assembly Language & Binary Systems
+- 🔲 Data Structures & Algorithms + LeetCode patterns
 - 🌐 Frontend hobby projects using HTML + Python
-- 🔍 Research Assistant role in Fall '25 semester
+- 🔍 Research Assistant role
 
 ---
 
