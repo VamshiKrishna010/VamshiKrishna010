@@ -34,6 +34,17 @@
 
 ---
 
+### 🧩 LeetCode Progress:
+<p align="center">
+  <a href="https://leetcode.com/u/VamshiKrishna010/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/VamshiKrishna010?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+> If your LeetCode username is different, replace `VamshiKrishna010` in the link + image URL above.
+
+---
+
 ### 🧠 Currently Exploring:
 - 🔲 Assembly Language & Binary Systems
 - 🌐 Frontend hobby projects using HTML + Python
@@ -53,7 +64,7 @@
   <a href="https://www.linkedin.com/in/vamshi-krishna-reddy-daggula-3269942b8/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Profile" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:vamshikrishnareddy2134@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
